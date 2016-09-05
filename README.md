@@ -1,3 +1,6 @@
+Git is easy, Git is fun. Thanks Linus!!
+
+
 PROBANDO ACTUALIZACION DEL PROYECTO
 
 *LUIS
